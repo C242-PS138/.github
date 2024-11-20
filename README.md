@@ -8,8 +8,8 @@
 ## Our Team
 # C242-PS138
 
-Bangkit ID | Name | University | Learning Path
-:---:|:---|:---|:--- 
+Bangkit ID | Name | Learning Path
+:---:|:---|:---
 M262B4KY1087 | Dhafa Alifandra | Machine Learning 
 M727B4KY1272 | Erick Santoso | Machine Learning
 M262B4KY1973 | Indra Nurul Alam	| Machine Learning
